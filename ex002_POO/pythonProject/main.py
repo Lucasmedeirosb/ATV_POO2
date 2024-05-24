@@ -1,0 +1,2 @@
+# Executa o jogo
+jogar()
